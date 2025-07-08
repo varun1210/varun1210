@@ -28,7 +28,9 @@ Currently **transitioning into ML engineering** because I want to build the mode
 
 🏗️ **API Architecture** - Designed FastAPI services handling 10M+ requests/month with sub-200ms response times  
 
-🌐 **Cloud Migration** - Led the move from on-prem to cloud, improving reliability and reducing costs  
+🌐 **Cloud Migration** - Led the move from on-prem to cloud, improving reliability and reducing costs
+
+<br clear="left" />  
 
 ---
 
@@ -79,7 +81,9 @@ The foundation of everything I build - from data pipelines that process millions
 
 **🔍 AI Integration**: Prototyping ways to embed LLMs into existing data workflows  
 
-**⚛️ Full-Stack Projects**: Building React frontends that connect to my FastAPI backends  
+**⚛️ Full-Stack Projects**: Building React frontends that connect to my FastAPI backends
+
+<br clear="right" />  
 
 ---
 
@@ -92,6 +96,8 @@ The foundation of everything I build - from data pipelines that process millions
 **Where I'm Going**: ML Engineer roles where I can leverage my data engineering foundation  
 
 **What Makes Me Different**: I understand the full data lifecycle, not just the modeling part
+
+<br clear="left" />
 
 ---
 
