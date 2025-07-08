@@ -30,31 +30,13 @@ Currently **transitioning into ML engineering** because I want to build the mode
 The foundation of everything I build - from data pipelines that process millions of records to ML models that actually work in production. 🔧
 
 ### Languages
-<img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1.svg?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1.svg?logo=postgresql&logoColor=white" />
 
 ### Cloud & Data Platforms
-<img src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8.svg?logo=snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8.svg?logo=snowflake&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" />
 
 ### Frameworks & Tools
-<img src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C.svg?logo=apache-spark&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E.svg?logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2.svg?logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/PySpark-E25A1C.svg?logo=apache-spark&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E.svg?logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2.svg?logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white" />
 
 ---
 
