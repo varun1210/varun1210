@@ -8,7 +8,7 @@
 
 ## 🚀 What I Do
 
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" style="margin-left: 20px;" />
 
 I'm a **data engineer** and **backend developer** who builds the infrastructure that powers data-driven applications. Think scalable APIs, robust ETL pipelines, and the kind of backend systems that just work—even when processing millions of records.
 
@@ -16,8 +16,10 @@ Currently **transitioning into ML engineering** because I want to build the mode
 
 **The sweet spot?** Building end-to-end ML systems where clean data architecture meets intelligent algorithms.
 
+<br clear="right" />
+
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="data flow gif" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="280" alt="data flow gif" />
 </div>
 
 ---
@@ -33,86 +35,99 @@ Currently **transitioning into ML engineering** because I want to build the mode
 🏗️ **API Architecture** - Designed FastAPI services handling 10M+ requests/month with sub-200ms response times  
 🌐 **Cloud Migration** - Led the move from on-prem to cloud, improving reliability and reducing costs
 
-<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180" />  
+<br clear="all" />  
 
 ---
 
 ## 🛠️ My Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" />
 </div>
 
-### 🔥 Core Technologies
+### 🔥 Languages & Core Tech
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PySpark-e34c26?style=for-the-badge&logo=apache-spark&logoColor=white" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,postgresql,react" height="40" />
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" height="28" />
 </div>
 
 ### ☁️ Cloud & Data Platforms
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Databricks-E02020?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker" height="40" />
+  <br>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" />
 </div>
 
 ### 🚀 Backend & APIs
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,postgresql,mongodb" height="40" />
+  <br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/REST_APIs-25D366?style=for-the-badge&logo=postman&logoColor=white" height="28" />
 </div>
 
 ### 🧠 ML & Analytics (Growing!)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="40" />
+  <br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAhE/giphy.gif" width="150" />
-</div>
+<br clear="all" />
 
 ---
 
 ## 🎯 What I'm Building
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qDWp7hxhi1N8oF2/giphy.gif" width="200" />
-</div>
+<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="180" style="margin-left: 20px;" />
 
 **🤖 ML Experiments**: Currently working on recommender systems and exploring MLOps patterns  
 **📊 Data Tools**: Building internal utilities for data validation and anomaly detection  
-**🔍 AI Integration**: Prototyping ways to embed LLMs into existing data workflows
+**🔍 AI Integration**: Prototyping ways to embed LLMs into existing data workflows  
+**⚛️ Full-Stack Projects**: Building React frontends that connect to my FastAPI backends
 
-<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="150" />  
+<br clear="right" />
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qDWp7hxhi1N8oF2/giphy.gif" width="200" />
+</div>  
 
 ---
 
 ## 📈 The Transition Journey
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="250" />
-</div>
+<img align="left" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="180" style="margin-right: 20px;" />
 
 **Where I've Been**: 3+ years building rock-solid data infrastructure and backend systems  
 **Where I'm Going**: ML Engineer roles where I can leverage my data engineering foundation  
 **What Makes Me Different**: I understand the full data lifecycle, not just the modeling part
 
+<br clear="left" />
+
 <div align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="220" />
 </div>
 
 ---
