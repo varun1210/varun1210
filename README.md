@@ -8,39 +8,29 @@
 
 ## 🚀 What I Do
 
-<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="180" style="margin-left: 20px;" />
+I'm a **data engineer** and **backend developer** who builds the infrastructure that powers data-driven applications. Think scalable APIs, robust ETL pipelines, and the kind of backend systems that just work—even when processing millions of records. 💪
 
-I'm a **data engineer** and **backend developer** who builds the infrastructure that powers data-driven applications. Think scalable APIs, robust ETL pipelines, and the kind of backend systems that just work—even when processing millions of records.
+Currently **transitioning into ML engineering** because I want to build the models, not just the pipes that feed them. My data engineering background gives me a unique perspective on the full ML lifecycle, from data ingestion to model deployment. 🎯
 
-Currently **transitioning into ML engineering** because I want to build the models, not just the pipes that feed them. My data engineering background gives me a unique perspective on the full ML lifecycle, from data ingestion to model deployment.
-
-**The sweet spot?** Building end-to-end ML systems where clean data architecture meets intelligent algorithms.
+**The sweet spot?** Building end-to-end ML systems where clean data architecture meets intelligent algorithms. ✨
 
 ---
 
 ## 💡 Recent Wins
 
-<img align="left" src="https://raw.githubusercontent.com/adamalston/adamalston/master/animation.gif" width="150" style="margin-right: 20px;" />
+🔥 **RAG Search Service** - Built a retrieval-augmented generation system using Azure AI Search + OpenAI that actually works in production 🚀  
 
-🔥 **RAG Search Service** - Built a retrieval-augmented generation system using Azure AI Search + OpenAI that actually works in production  
+⚡ **Pipeline Optimization** - Rewrote legacy ETL jobs with PySpark, cutting processing time by 60% 📈  
 
-⚡ **Pipeline Optimization** - Rewrote legacy ETL jobs with PySpark, cutting processing time by 60%  
+🏗️ **API Architecture** - Designed FastAPI services handling 10M+ requests/month with sub-200ms response times ⚡  
 
-🏗️ **API Architecture** - Designed FastAPI services handling 10M+ requests/month with sub-200ms response times  
-
-🌐 **Cloud Migration** - Led the move from on-prem to cloud, improving reliability and reducing costs
-
-<br clear="left" />  
+🌐 **Cloud Migration** - Led the move from on-prem to cloud, improving reliability and reducing costs 💰  
 
 ---
 
 ## 🛠️ My Stack
 
-<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/coding.gif" width="200" style="margin-left: 20px;" />
-
-The foundation of everything I build - from data pipelines that process millions of records to ML models that actually work in production.
-
-<br clear="right" />
+The foundation of everything I build - from data pipelines that process millions of records to ML models that actually work in production. 🔧
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -73,31 +63,23 @@ The foundation of everything I build - from data pipelines that process millions
 
 ## 🎯 What I'm Building
 
-<img align="right" src="https://raw.githubusercontent.com/SubhamRaoniar28/SubhamRaoniar28/master/gifs/coder.gif" width="160" style="margin-left: 20px;" />
+**🤖 ML Experiments**: Currently working on recommender systems and exploring MLOps patterns 🧪  
 
-**🤖 ML Experiments**: Currently working on recommender systems and exploring MLOps patterns  
+**📊 Data Tools**: Building internal utilities for data validation and anomaly detection 🔍  
 
-**📊 Data Tools**: Building internal utilities for data validation and anomaly detection  
+**🔍 AI Integration**: Prototyping ways to embed LLMs into existing data workflows 🤝  
 
-**🔍 AI Integration**: Prototyping ways to embed LLMs into existing data workflows  
-
-**⚛️ Full-Stack Projects**: Building React frontends that connect to my FastAPI backends
-
-<br clear="right" />  
+**⚛️ Full-Stack Projects**: Building React frontends that connect to my FastAPI backends 🌐  
 
 ---
 
 ## 📈 The Transition Journey
 
-<img align="left" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/handShake.gif" width="160" style="margin-right: 20px;" />
+**Where I've Been**: 3+ years building rock-solid data infrastructure and backend systems 🏗️  
 
-**Where I've Been**: 3+ years building rock-solid data infrastructure and backend systems  
+**Where I'm Going**: ML Engineer roles where I can leverage my data engineering foundation 🎯  
 
-**Where I'm Going**: ML Engineer roles where I can leverage my data engineering foundation  
-
-**What Makes Me Different**: I understand the full data lifecycle, not just the modeling part
-
-<br clear="left" />
+**What Makes Me Different**: I understand the full data lifecycle, not just the modeling part 💡
 
 ---
 
