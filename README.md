@@ -11,16 +11,6 @@ I'm a **data engineer** and **backend developer** who builds the infrastructure 
 
 Currently **transitioning into ML engineering** because I want to build the models, not just the pipes that feed them. My data engineering background gives me a unique perspective on the full ML lifecycle, from data ingestion to model deployment. 🎯
 
-## 💡 Recent Wins
-
-🔥 **RAG Search Service** - Built a retrieval-augmented generation system using Azure AI Search + OpenAI that actually works in production 🚀  
-
-⚡ **Pipeline Optimization** - Rewrote legacy ETL jobs with PySpark, cutting processing time by 60% 📈  
-
-🏗️ **API Architecture** - Designed FastAPI services handling 10M+ requests/month with sub-200ms response times ⚡  
-
-🌐 **Cloud Migration** - Led the move from on-prem to cloud, improving reliability and reducing costs 💰
-
 ## 🛠️ My Stack
 
 The foundation of everything I build - from data pipelines that process millions of records to ML models that actually work in production. 🔧
@@ -55,11 +45,6 @@ The foundation of everything I build - from data pipelines that process millions
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="160" />
-  <br>
-  <b>Building the bridge between data engineering and machine learning</b><br>
-  <i>One pipeline at a time</i>
-  <br><br>
   <img src="https://komarev.com/ghpvc/?username=varun1210&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <br>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20" />
