@@ -30,17 +30,15 @@ The foundation of everything I build - from data pipelines that process millions
   <a href="https://www.linkedin.com/in/varun-muppalla-64708814b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/varun1210">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://varun1210.github.io/">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
-
-**💼 LinkedIn** - Let's talk about data, ML, or backend architecture  
-**💻 GitHub** - Check out my latest projects and contributions  
-**🌐 Portfolio** - Deep dives into my work and writing
 
 ---
 
