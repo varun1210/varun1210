@@ -8,7 +8,7 @@
 
 ## 🚀 What I Do
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" style="margin-left: 20px;" />
+<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="180" style="margin-left: 20px;" />
 
 I'm a **data engineer** and **backend developer** who builds the infrastructure that powers data-driven applications. Think scalable APIs, robust ETL pipelines, and the kind of backend systems that just work—even when processing millions of records.
 
@@ -20,7 +20,7 @@ Currently **transitioning into ML engineering** because I want to build the mode
 
 ## 💡 Recent Wins
 
-<img align="left" src="https://media.giphy.com/media/3o7qDSOtqAqWnKwUow/giphy.gif" width="150" style="margin-right: 20px;" />
+<img align="left" src="https://raw.githubusercontent.com/adamalston/adamalston/master/animation.gif" width="150" style="margin-right: 20px;" />
 
 🔥 **RAG Search Service** - Built a retrieval-augmented generation system using Azure AI Search + OpenAI that actually works in production  
 
@@ -34,7 +34,7 @@ Currently **transitioning into ML engineering** because I want to build the mode
 
 ## 🛠️ My Stack
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="margin-left: 20px;" />
+<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/coding.gif" width="200" style="margin-left: 20px;" />
 
 The foundation of everything I build - from data pipelines that process millions of records to ML models that actually work in production.
 
@@ -71,7 +71,7 @@ The foundation of everything I build - from data pipelines that process millions
 
 ## 🎯 What I'm Building
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="160" style="margin-left: 20px;" />
+<img align="right" src="https://raw.githubusercontent.com/SubhamRaoniar28/SubhamRaoniar28/master/gifs/coder.gif" width="160" style="margin-left: 20px;" />
 
 **🤖 ML Experiments**: Currently working on recommender systems and exploring MLOps patterns  
 
@@ -85,7 +85,7 @@ The foundation of everything I build - from data pipelines that process millions
 
 ## 📈 The Transition Journey
 
-<img align="left" src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="160" style="margin-right: 20px;" />
+<img align="left" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/handShake.gif" width="160" style="margin-right: 20px;" />
 
 **Where I've Been**: 3+ years building rock-solid data infrastructure and backend systems  
 
