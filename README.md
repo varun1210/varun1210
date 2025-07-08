@@ -1,7 +1,6 @@
 # Hey, I'm Varun! 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Engineer+%2B+Backend+Developer;Building+ML+Systems;From+Pipelines+to+Models" alt="Typing SVG" />
 </div>
@@ -11,8 +10,6 @@
 I'm a **data engineer** and **backend developer** who builds the infrastructure that powers data-driven applications. Think scalable APIs, robust ETL pipelines, and the kind of backend systems that just work—even when processing millions of records. 💪
 
 Currently **transitioning into ML engineering** because I want to build the models, not just the pipes that feed them. My data engineering background gives me a unique perspective on the full ML lifecycle, from data ingestion to model deployment. 🎯
-
-**The sweet spot?** Building end-to-end ML systems where clean data architecture meets intelligent algorithms. ✨
 
 ---
 
@@ -33,31 +30,31 @@ Currently **transitioning into ML engineering** because I want to build the mode
 The foundation of everything I build - from data pipelines that process millions of records to ML models that actually work in production. 🔧
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1.svg?logo=postgresql&logoColor=white" />
 
 ### Cloud & Data Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8.svg?logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" />
 
 ### Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<img src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C.svg?logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E.svg?logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2.svg?logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white" />
 
 ---
 
@@ -83,10 +80,14 @@ The foundation of everything I build - from data pipelines that process millions
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varunmuppalla&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunmuppalla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=varunmuppalla&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -109,8 +110,6 @@ The foundation of everything I build - from data pipelines that process millions
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="160" />
-  <br>
-  <img src="https://media.giphy.com/media/3o7qDSOtqAqWnKwUow/giphy.gif" width="120" />
   <br>
   <b>Building the bridge between data engineering and machine learning</b><br>
   <i>One pipeline at a time</i>
