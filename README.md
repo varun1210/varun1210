@@ -11,8 +11,6 @@ I'm a **data engineer** and **backend developer** who builds the infrastructure 
 
 Currently **transitioning into ML engineering** because I want to build the models, not just the pipes that feed them. My data engineering background gives me a unique perspective on the full ML lifecycle, from data ingestion to model deployment. 🎯
 
----
-
 ## 💡 Recent Wins
 
 🔥 **RAG Search Service** - Built a retrieval-augmented generation system using Azure AI Search + OpenAI that actually works in production 🚀  
@@ -21,9 +19,7 @@ Currently **transitioning into ML engineering** because I want to build the mode
 
 🏗️ **API Architecture** - Designed FastAPI services handling 10M+ requests/month with sub-200ms response times ⚡  
 
-🌐 **Cloud Migration** - Led the move from on-prem to cloud, improving reliability and reducing costs 💰  
-
----
+🌐 **Cloud Migration** - Led the move from on-prem to cloud, improving reliability and reducing costs 💰
 
 ## 🛠️ My Stack
 
@@ -38,42 +34,10 @@ The foundation of everything I build - from data pipelines that process millions
 ### Frameworks & Tools
 <img src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/PySpark-E25A1C.svg?logo=apache-spark&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E.svg?logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2.svg?logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white" />
 
----
-
-## 🎯 What I'm Building
-
-**🤖 ML Experiments**: Currently working on recommender systems and exploring MLOps patterns 🧪  
-
-**📊 Data Tools**: Building internal utilities for data validation and anomaly detection 🔍  
-
-**🔍 AI Integration**: Prototyping ways to embed LLMs into existing data workflows 🤝  
-
-**⚛️ Full-Stack Projects**: Building React frontends that connect to my FastAPI backends 🌐  
-
----
-
-## 📈 The Transition Journey
-
-**Where I've Been**: 3+ years building rock-solid data infrastructure and backend systems 🏗️  
-
-**Where I'm Going**: ML Engineer roles where I can leverage my data engineering foundation 🎯  
-
-**What Makes Me Different**: I understand the full data lifecycle, not just the modeling part 💡
-
----
-
-## 📊 GitHub Stats
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varun1210&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun1210&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=varun1210&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/feed/">
+  <a href="https://www.linkedin.com/in/varun-muppalla-64708814b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/varun1210">
