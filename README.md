@@ -40,95 +40,32 @@ The foundation of everything I build - from data pipelines that process millions
 
 <br clear="right" />
 
-<div class="skill-category">
-  <h3 class="category-title">Languages</h3>
-  <ul class="skill-grid">
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" class="skill-icon" width="32"><span class="skill-name">Python</span></li>
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" class="skill-icon" width="32"><span class="skill-name">Java</span></li>
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" class="skill-icon" width="32"><span class="skill-name">TypeScript</span></li>
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" class="skill-icon" width="32"><span class="skill-name">SQL</span></li>
-  </ul>
-</div>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<div class="skill-category">
-  <h3 class="category-title">Cloud & Data Platforms</h3>
-  <ul class="skill-grid">
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" class="skill-icon" width="32"><span class="skill-name">AWS</span></li>
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" class="skill-icon" width="32"><span class="skill-name">Azure</span></li>
-    <li class="skill-item"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" class="skill-icon" width="32"><span class="skill-name">Databricks</span></li>
-    <li class="skill-item"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" class="skill-icon" width="32"><span class="skill-name">Snowflake</span></li>
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" class="skill-icon" width="32"><span class="skill-name">Docker</span></li>
-  </ul>
-</div>
+### Cloud & Data Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<div class="skill-category">
-  <h3 class="category-title">Frameworks & Tools</h3>
-  <ul class="skill-grid">
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" class="skill-icon" width="32"><span class="skill-name">FastAPI</span></li>
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" class="skill-icon" width="32"><span class="skill-name">Spring Boot</span></li>
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" class="skill-icon" width="32"><span class="skill-name">React</span></li>
-    <li class="skill-item"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" class="skill-icon" width="32"><span class="skill-name">PySpark</span></li>
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" class="skill-icon" width="32"><span class="skill-name">Pandas</span></li>
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" class="skill-icon" width="32"><span class="skill-name">NumPy</span></li>
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" class="skill-icon" width="32"><span class="skill-name">TensorFlow</span></li>
-    <li class="skill-item"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" class="skill-icon" width="32"><span class="skill-name">Scikit-Learn</span></li>
-    <li class="skill-item"><img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" class="skill-icon" width="32"><span class="skill-name">MLflow</span></li>
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" class="skill-icon" width="32"><span class="skill-name">PostgreSQL</span></li>
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" class="skill-icon" width="32"><span class="skill-name">MongoDB</span></li>
-    <li class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" class="skill-icon" width="32"><span class="skill-name">Jupyter</span></li>
-  </ul>
-</div>
-
-<style>
-.skill-category {
-  margin: 20px 0;
-}
-
-.category-title {
-  font-size: 1.2em;
-  font-weight: bold;
-  margin-bottom: 10px;
-  color: #333;
-}
-
-.skill-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 15px;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.skill-item {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 8px 12px;
-  background: #f8f9fa;
-  border-radius: 8px;
-  border: 1px solid #e9ecef;
-  transition: all 0.2s ease;
-}
-
-.skill-item:hover {
-  background: #e3f2fd;
-  border-color: #2196f3;
-  transform: translateY(-2px);
-}
-
-.skill-icon {
-  width: 24px;
-  height: 24px;
-  object-fit: contain;
-}
-
-.skill-name {
-  font-size: 0.9em;
-  font-weight: 500;
-  white-space: nowrap;
-}
-</style>
+### Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
