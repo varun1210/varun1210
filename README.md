@@ -37,45 +37,10 @@ While expanding my skills in machine learning, my core focus remains on creating
 ## ⚙️ Tools & Tech I Use
 
 ### 🔤 Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![PySpark](https://img.shields.io/badge/-PySpark-e34c26?style=flat&logo=apache-spark&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-e34c26?style=flat&logo=apache-spark&logoColor=white)
 
 ### ☁️ Cloud & Data Platforms  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Databricks](https://img.shields.io/badge/-Databricks-E02020?style=flat&logo=databricks&logoColor=white)  
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-E02020?style=flat&logo=databricks&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
 ### 🧰 Backend & Data  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-
-### 🤖 ML & Analytics  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![MLflow](https://img.shields.io/badge/-MLflow-000000?style=flat&logo=mlflow&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)  
-
----
-
-## 🤝 Connect With Me
-
-- 🧠 [LinkedIn](https://www.linkedin.com/in/varunmuppalla)  
-- 💻 [GitHub](https://github.com/varunmuppalla)  
-- 🌐 [Personal Site](https://your-website.com) <!-- Update if hosted -->
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="160" />
-</p>
-
-<p align="center"><b>Building backend & data infrastructure. Exploring ML. Shipping quality software.</b></p>
+![FastAPI](https://img.s)
