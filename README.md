@@ -65,21 +65,21 @@ The foundation of everything I build - from data pipelines that process millions
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunmuppalla&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varun1210&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunmuppalla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun1210&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=varunmuppalla&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=varun1210&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/varunmuppalla">
+  <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/varunmuppalla">
+  <a href="https://github.com/varun1210">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://your-website.com">
+  <a href="https://varun1210.github.io/">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
@@ -96,7 +96,7 @@ The foundation of everything I build - from data pipelines that process millions
   <b>Building the bridge between data engineering and machine learning</b><br>
   <i>One pipeline at a time</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=varunmuppalla&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=varun1210&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <br>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20" />
   <i>Thanks for stopping by!</i>
