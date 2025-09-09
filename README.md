@@ -7,9 +7,9 @@
 
 ## 🚀 What I Do
 
-I'm a **data engineer** and **backend developer** who builds the infrastructure that powers data-driven applications. Think scalable APIs, robust ETL pipelines, and the kind of backend systems that just work—even when processing millions of records. 💪
+I'm a **data engineer** and **backend developer** who builds the infrastructure that powers data-driven applications. Think scalable APIs, robust ETL pipelines, and the kind of backend systems that just work - even when processing millions of records. 💪
 
-Currently **transitioning into ML engineering** because I want to build the models, not just the pipes that feed them. My data engineering background gives me a unique perspective on the full ML lifecycle, from data ingestion to model deployment. 🎯
+Currently **transitioning into ML engineering** because I want to build the models, not just the pipes that feed them. My data engineering background provides a unique perspective on the entire ML lifecycle, from data ingestion to model deployment. 🎯
 
 ## 🛠️ My Stack
 
